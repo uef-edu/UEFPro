@@ -1,0 +1,8 @@
+.DS_Store
+*Autosave*
+envsources/build.ninja
+sources/.ninja_log
+sources/instance_ufos/
+sources/.DS_Store
+env/
+.DS_Store

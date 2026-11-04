@@ -1,0 +1,12 @@
+# This is the official list of project authors for copyright purposes.
+# This file is distinct from the CONTRIBUTORS.txt file.
+# See the latter for an explanation.
+#
+# Names should be added to this file as:
+# Name or Organization <email address>
+
+UEF - Truong Dai hoc Kinh te - Tai chinh TP.HCM <https://uef.edu.vn>
+
+# UEF Pro is a fork of Be Vietnam Pro. The original copyright holders,
+# retained as required by the SIL Open Font License 1.1:
+The Be Vietnam Pro Project Authors <https://github.com/bettergui/BeVietnamPro>
